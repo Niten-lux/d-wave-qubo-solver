@@ -1,7 +1,7 @@
 import amplify as amp
 import numpy as np
 
-token = 'uQVhv3X4gcNgBOXYIKzau4qqfRdNhZz8'
+token = ''
 
 
 M = np.array([[1,1,1] , [1,1,0] , [1,0,0]])
