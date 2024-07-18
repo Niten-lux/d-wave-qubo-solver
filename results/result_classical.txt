@@ -1,0 +1,1302 @@
+matrix of size 2*2  
+minimal energy : 4
+resuts:
+energy:  4.0   occurence:  987.0
+energy:  5.0   occurence:  13.0
+
+
+
+
+
+matrix of size 2*3  
+minimal energy : -9
+resuts:
+energy:  -9.0   occurence:  993.0
+energy:  -8.0   occurence:  7.0
+
+
+
+
+
+matrix of size 2*4  
+minimal energy : 0
+resuts:
+energy:  0.0   occurence:  974.0
+energy:  1.0   occurence:  26.0
+
+
+
+
+
+matrix of size 2*5  
+minimal energy : -33
+resuts:
+energy:  -33.0   occurence:  998.0
+energy:  -32.0   occurence:  2.0
+
+
+
+
+
+matrix of size 2*6  
+minimal energy : -33
+resuts:
+energy:  -33.0   occurence:  997.0
+energy:  -32.0   occurence:  3.0
+
+
+
+
+
+matrix of size 2*7  
+minimal energy : -22
+resuts:
+energy:  -22.0   occurence:  941.0
+energy:  -21.0   occurence:  58.0
+energy:  -20.0   occurence:  1.0
+
+
+
+
+
+matrix of size 2*8  
+minimal energy : -24
+resuts:
+energy:  -24.0   occurence:  882.0
+energy:  -23.0   occurence:  118.0
+
+
+
+
+
+matrix of size 2*9  
+minimal energy : -73
+resuts:
+energy:  -73.0   occurence:  980.0
+energy:  -72.0   occurence:  20.0
+
+
+
+
+
+matrix of size 2*10  
+minimal energy : -54
+resuts:
+energy:  -54.0   occurence:  980.0
+energy:  -53.0   occurence:  20.0
+
+
+
+
+
+matrix of size 2*11  
+minimal energy : -82
+resuts:
+energy:  -82.0   occurence:  983.0
+energy:  -81.0   occurence:  17.0
+
+
+
+
+
+matrix of size 2*12  
+minimal energy : -35
+resuts:
+energy:  -35.0   occurence:  984.0
+energy:  -34.0   occurence:  16.0
+
+
+
+
+
+matrix of size 2*13  
+minimal energy : -125
+resuts:
+energy:  -125.0   occurence:  986.0
+energy:  -124.0   occurence:  14.0
+
+
+
+
+
+matrix of size 2*14  
+minimal energy : -95
+resuts:
+energy:  -95.0   occurence:  935.0
+energy:  -94.0   occurence:  64.0
+energy:  -93.0   occurence:  1.0
+
+
+
+
+
+matrix of size 2*15  
+minimal energy : -117
+resuts:
+energy:  -117.0   occurence:  990.0
+energy:  -116.0   occurence:  10.0
+
+
+
+
+
+matrix of size 2*16  
+minimal energy : -153
+resuts:
+energy:  -153.0   occurence:  986.0
+energy:  -152.0   occurence:  14.0
+
+
+
+
+
+matrix of size 2*17  
+minimal energy : -234
+resuts:
+energy:  -234.0   occurence:  966.0
+energy:  -233.0   occurence:  33.0
+energy:  -232.0   occurence:  1.0
+
+
+
+
+
+matrix of size 2*18  
+minimal energy : -216
+resuts:
+energy:  -216.0   occurence:  985.0
+energy:  -215.0   occurence:  15.0
+
+
+
+
+
+matrix of size 2*19  
+minimal energy : -170
+resuts:
+energy:  -170.0   occurence:  961.0
+energy:  -169.0   occurence:  39.0
+
+
+
+
+
+matrix of size 3*3  
+minimal energy : -7
+resuts:
+energy:  -7.0   occurence:  992.0
+energy:  -6.0   occurence:  8.0
+
+
+
+
+
+matrix of size 3*4  
+minimal energy : -25
+resuts:
+energy:  -25.0   occurence:  990.0
+energy:  -24.0   occurence:  10.0
+
+
+
+
+
+matrix of size 3*5  
+minimal energy : -31
+resuts:
+energy:  -31.0   occurence:  984.0
+energy:  -30.0   occurence:  16.0
+
+
+
+
+
+matrix of size 3*6  
+minimal energy : -39
+resuts:
+energy:  -39.0   occurence:  953.0
+energy:  -38.0   occurence:  47.0
+
+
+
+
+
+matrix of size 3*7  
+minimal energy : -76
+resuts:
+energy:  -76.0   occurence:  993.0
+energy:  -75.0   occurence:  7.0
+
+
+
+
+
+matrix of size 3*8  
+minimal energy : -60
+resuts:
+energy:  -60.0   occurence:  978.0
+energy:  -59.0   occurence:  22.0
+
+
+
+
+
+matrix of size 3*9  
+minimal energy : -104
+resuts:
+energy:  -104.0   occurence:  918.0
+energy:  -103.0   occurence:  82.0
+
+
+
+
+
+matrix of size 3*10  
+minimal energy : -147
+resuts:
+energy:  -147.0   occurence:  994.0
+energy:  -146.0   occurence:  6.0
+
+
+
+
+
+matrix of size 3*11  
+minimal energy : -154
+resuts:
+energy:  -154.0   occurence:  979.0
+energy:  -153.0   occurence:  21.0
+
+
+
+
+
+matrix of size 3*12  
+minimal energy : -149
+resuts:
+energy:  -149.0   occurence:  948.0
+energy:  -148.0   occurence:  52.0
+
+
+
+
+
+matrix of size 3*13  
+minimal energy : -140
+resuts:
+energy:  -140.0   occurence:  962.0
+energy:  -139.0   occurence:  38.0
+
+
+
+
+
+matrix of size 3*14  
+minimal energy : -214
+resuts:
+energy:  -214.0   occurence:  937.0
+energy:  -213.0   occurence:  63.0
+
+
+
+
+
+matrix of size 3*15  
+minimal energy : -149
+resuts:
+energy:  -149.0   occurence:  949.0
+energy:  -148.0   occurence:  51.0
+
+
+
+
+
+matrix of size 3*16  
+minimal energy : -184
+resuts:
+energy:  -184.0   occurence:  923.0
+energy:  -183.0   occurence:  76.0
+energy:  -182.0   occurence:  1.0
+
+
+
+
+
+matrix of size 3*17  
+minimal energy : -205
+resuts:
+energy:  -205.0   occurence:  977.0
+energy:  -204.0   occurence:  23.0
+
+
+
+
+
+matrix of size 3*18  
+minimal energy : -371
+resuts:
+energy:  -371.0   occurence:  967.0
+energy:  -370.0   occurence:  31.0
+energy:  -369.0   occurence:  2.0
+
+
+
+
+
+matrix of size 3*19  
+minimal energy : -347
+resuts:
+energy:  -347.0   occurence:  930.0
+energy:  -346.0   occurence:  69.0
+energy:  -345.0   occurence:  1.0
+
+
+
+
+
+matrix of size 4*4  
+minimal energy : -21
+resuts:
+energy:  -21.0   occurence:  970.0
+energy:  -20.0   occurence:  30.0
+
+
+
+
+
+matrix of size 4*5  
+minimal energy : -26
+resuts:
+energy:  -26.0   occurence:  921.0
+energy:  -25.0   occurence:  79.0
+
+
+
+
+
+matrix of size 4*6  
+minimal energy : -67
+resuts:
+energy:  -67.0   occurence:  974.0
+energy:  -66.0   occurence:  26.0
+
+
+
+
+
+matrix of size 4*7  
+minimal energy : -70
+resuts:
+energy:  -70.0   occurence:  979.0
+energy:  -69.0   occurence:  21.0
+
+
+
+
+
+matrix of size 4*8  
+minimal energy : -118
+resuts:
+energy:  -118.0   occurence:  973.0
+energy:  -117.0   occurence:  27.0
+
+
+
+
+
+matrix of size 4*9  
+minimal energy : -112
+resuts:
+energy:  -112.0   occurence:  963.0
+energy:  -111.0   occurence:  36.0
+energy:  -110.0   occurence:  1.0
+
+
+
+
+
+matrix of size 4*10  
+minimal energy : -123
+resuts:
+energy:  -123.0   occurence:  908.0
+energy:  -122.0   occurence:  92.0
+
+
+
+
+
+matrix of size 4*11  
+minimal energy : -162
+resuts:
+energy:  -162.0   occurence:  922.0
+energy:  -161.0   occurence:  77.0
+energy:  -160.0   occurence:  1.0
+
+
+
+
+
+matrix of size 4*12  
+minimal energy : -245
+resuts:
+energy:  -245.0   occurence:  966.0
+energy:  -244.0   occurence:  34.0
+
+
+
+
+
+matrix of size 4*13  
+minimal energy : -271
+resuts:
+energy:  -271.0   occurence:  975.0
+energy:  -270.0   occurence:  25.0
+
+
+
+
+
+matrix of size 4*14  
+minimal energy : -269
+resuts:
+energy:  -269.0   occurence:  964.0
+energy:  -268.0   occurence:  36.0
+
+
+
+
+
+matrix of size 4*15  
+minimal energy : -312
+resuts:
+energy:  -312.0   occurence:  944.0
+energy:  -311.0   occurence:  56.0
+
+
+
+
+
+matrix of size 4*16  
+minimal energy : -427
+resuts:
+energy:  -427.0   occurence:  849.0
+energy:  -426.0   occurence:  151.0
+
+
+
+
+
+matrix of size 4*17  
+minimal energy : -331
+resuts:
+energy:  -331.0   occurence:  938.0
+energy:  -330.0   occurence:  62.0
+
+
+
+
+
+matrix of size 4*18  
+minimal energy : -411
+resuts:
+energy:  -411.0   occurence:  924.0
+energy:  -410.0   occurence:  75.0
+energy:  -409.0   occurence:  1.0
+
+
+
+
+
+matrix of size 4*19  
+minimal energy : -294
+resuts:
+energy:  -294.0   occurence:  881.0
+energy:  -293.0   occurence:  119.0
+
+
+
+
+
+matrix of size 5*5  
+minimal energy : -19
+resuts:
+energy:  -19.0   occurence:  842.0
+energy:  -18.0   occurence:  158.0
+
+
+
+
+
+matrix of size 5*6  
+minimal energy : -141
+resuts:
+energy:  -141.0   occurence:  964.0
+energy:  -140.0   occurence:  35.0
+energy:  -139.0   occurence:  1.0
+
+
+
+
+
+matrix of size 5*7  
+minimal energy : -171
+resuts:
+energy:  -171.0   occurence:  967.0
+energy:  -170.0   occurence:  33.0
+
+
+
+
+
+matrix of size 5*8  
+minimal energy : -98
+resuts:
+energy:  -98.0   occurence:  939.0
+energy:  -97.0   occurence:  61.0
+
+
+
+
+
+matrix of size 5*9  
+minimal energy : -128
+resuts:
+energy:  -128.0   occurence:  950.0
+energy:  -127.0   occurence:  50.0
+
+
+
+
+
+matrix of size 5*10  
+minimal energy : -177
+resuts:
+energy:  -177.0   occurence:  951.0
+energy:  -176.0   occurence:  49.0
+
+
+
+
+
+matrix of size 5*11  
+minimal energy : -316
+resuts:
+energy:  -316.0   occurence:  952.0
+energy:  -315.0   occurence:  48.0
+
+
+
+
+
+matrix of size 5*12  
+minimal energy : -284
+resuts:
+energy:  -284.0   occurence:  963.0
+energy:  -283.0   occurence:  37.0
+
+
+
+
+
+matrix of size 5*13  
+minimal energy : -311
+resuts:
+energy:  -311.0   occurence:  945.0
+energy:  -310.0   occurence:  55.0
+
+
+
+
+
+matrix of size 5*14  
+minimal energy : -403
+resuts:
+energy:  -403.0   occurence:  965.0
+energy:  -402.0   occurence:  35.0
+
+
+
+
+
+matrix of size 5*15  
+minimal energy : -340
+resuts:
+energy:  -340.0   occurence:  798.0
+energy:  -339.0   occurence:  198.0
+energy:  -338.0   occurence:  4.0
+
+
+
+
+
+matrix of size 5*16  
+minimal energy : -533
+resuts:
+energy:  -533.0   occurence:  856.0
+energy:  -532.0   occurence:  143.0
+energy:  -531.0   occurence:  1.0
+
+
+
+
+
+matrix of size 5*17  
+minimal energy : -281
+resuts:
+energy:  -281.0   occurence:  870.0
+energy:  -280.0   occurence:  129.0
+energy:  -279.0   occurence:  1.0
+
+
+
+
+
+matrix of size 5*18  
+minimal energy : -625
+resuts:
+energy:  -625.0   occurence:  919.0
+energy:  -624.0   occurence:  81.0
+
+
+
+
+
+matrix of size 5*19  
+minimal energy : -609
+resuts:
+energy:  -609.0   occurence:  964.0
+energy:  -608.0   occurence:  36.0
+
+
+
+
+
+matrix of size 6*6  
+minimal energy : -67
+resuts:
+energy:  -67.0   occurence:  870.0
+energy:  -66.0   occurence:  129.0
+energy:  -65.0   occurence:  1.0
+
+
+
+
+
+matrix of size 6*7  
+minimal energy : -58
+resuts:
+energy:  -58.0   occurence:  951.0
+energy:  -57.0   occurence:  49.0
+
+
+
+
+
+matrix of size 6*8  
+minimal energy : -120
+resuts:
+energy:  -120.0   occurence:  969.0
+energy:  -119.0   occurence:  31.0
+
+
+
+
+
+matrix of size 6*9  
+minimal energy : -236
+resuts:
+energy:  -236.0   occurence:  983.0
+energy:  -235.0   occurence:  17.0
+
+
+
+
+
+matrix of size 6*10  
+minimal energy : -374
+resuts:
+energy:  -374.0   occurence:  981.0
+energy:  -373.0   occurence:  19.0
+
+
+
+
+
+matrix of size 6*11  
+minimal energy : -361
+resuts:
+energy:  -361.0   occurence:  896.0
+energy:  -360.0   occurence:  103.0
+energy:  -359.0   occurence:  1.0
+
+
+
+
+
+matrix of size 6*12  
+minimal energy : -363
+resuts:
+energy:  -363.0   occurence:  969.0
+energy:  -362.0   occurence:  31.0
+
+
+
+
+
+matrix of size 6*13  
+minimal energy : -376
+resuts:
+energy:  -376.0   occurence:  956.0
+energy:  -375.0   occurence:  44.0
+
+
+
+
+
+matrix of size 6*14  
+minimal energy : -393
+resuts:
+energy:  -393.0   occurence:  930.0
+energy:  -392.0   occurence:  70.0
+
+
+
+
+
+matrix of size 6*15  
+minimal energy : -502
+resuts:
+energy:  -502.0   occurence:  836.0
+energy:  -501.0   occurence:  164.0
+
+
+
+
+
+matrix of size 6*16  
+minimal energy : -755
+resuts:
+energy:  -755.0   occurence:  943.0
+energy:  -754.0   occurence:  57.0
+
+
+
+
+
+matrix of size 6*17  
+minimal energy : -733
+resuts:
+energy:  -733.0   occurence:  917.0
+energy:  -732.0   occurence:  83.0
+
+
+
+
+
+matrix of size 6*18  
+minimal energy : -817
+resuts:
+energy:  -817.0   occurence:  933.0
+energy:  -816.0   occurence:  67.0
+
+
+
+
+
+matrix of size 6*19  
+minimal energy : -731
+resuts:
+energy:  -731.0   occurence:  881.0
+energy:  -730.0   occurence:  116.0
+energy:  -729.0   occurence:  3.0
+
+
+
+
+
+matrix of size 7*7  
+minimal energy : -140
+resuts:
+energy:  -140.0   occurence:  942.0
+energy:  -139.0   occurence:  58.0
+
+
+
+
+
+matrix of size 7*8  
+minimal energy : -215
+resuts:
+energy:  -215.0   occurence:  970.0
+energy:  -214.0   occurence:  30.0
+
+
+
+
+
+matrix of size 7*9  
+minimal energy : -253
+resuts:
+energy:  -253.0   occurence:  944.0
+energy:  -252.0   occurence:  56.0
+
+
+
+
+
+matrix of size 7*10  
+minimal energy : -380
+resuts:
+energy:  -380.0   occurence:  950.0
+energy:  -379.0   occurence:  50.0
+
+
+
+
+
+matrix of size 7*11  
+minimal energy : -301
+resuts:
+energy:  -301.0   occurence:  872.0
+energy:  -300.0   occurence:  128.0
+
+
+
+
+
+matrix of size 7*12  
+minimal energy : -492
+resuts:
+energy:  -492.0   occurence:  917.0
+energy:  -491.0   occurence:  82.0
+energy:  -490.0   occurence:  1.0
+
+
+
+
+
+matrix of size 7*13  
+minimal energy : -300
+resuts:
+energy:  -300.0   occurence:  734.0
+energy:  -299.0   occurence:  259.0
+energy:  -298.0   occurence:  7.0
+
+
+
+
+
+matrix of size 7*14  
+minimal energy : -568
+resuts:
+energy:  -568.0   occurence:  913.0
+energy:  -567.0   occurence:  86.0
+energy:  -566.0   occurence:  1.0
+
+
+
+
+
+matrix of size 7*15  
+minimal energy : -596
+resuts:
+energy:  -596.0   occurence:  892.0
+energy:  -595.0   occurence:  103.0
+energy:  -594.0   occurence:  5.0
+
+
+
+
+
+matrix of size 7*16  
+minimal energy : -746
+resuts:
+energy:  -746.0   occurence:  907.0
+energy:  -745.0   occurence:  93.0
+
+
+
+
+
+matrix of size 7*17  
+minimal energy : -995
+resuts:
+energy:  -995.0   occurence:  931.0
+energy:  -994.0   occurence:  69.0
+
+
+
+
+
+matrix of size 7*18  
+minimal energy : -951
+resuts:
+energy:  -951.0   occurence:  827.0
+energy:  -950.0   occurence:  173.0
+
+
+
+
+
+matrix of size 7*19  
+minimal energy : -718
+resuts:
+energy:  -718.0   occurence:  828.0
+energy:  -717.0   occurence:  171.0
+energy:  -715.0   occurence:  1.0
+
+
+
+
+
+matrix of size 8*8  
+minimal energy : -315
+resuts:
+energy:  -315.0   occurence:  937.0
+energy:  -314.0   occurence:  62.0
+energy:  -313.0   occurence:  1.0
+
+
+
+
+
+matrix of size 8*9  
+minimal energy : -288
+resuts:
+energy:  -288.0   occurence:  947.0
+energy:  -287.0   occurence:  52.0
+energy:  -286.0   occurence:  1.0
+
+
+
+
+
+matrix of size 8*10  
+minimal energy : -202
+resuts:
+energy:  -202.0   occurence:  703.0
+energy:  -201.0   occurence:  289.0
+energy:  -200.0   occurence:  8.0
+
+
+
+
+
+matrix of size 8*11  
+minimal energy : -414
+resuts:
+energy:  -414.0   occurence:  889.0
+energy:  -413.0   occurence:  111.0
+
+
+
+
+
+matrix of size 8*12  
+minimal energy : -413
+resuts:
+energy:  -413.0   occurence:  893.0
+energy:  -412.0   occurence:  106.0
+energy:  -411.0   occurence:  1.0
+
+
+
+
+
+matrix of size 8*13  
+minimal energy : -477
+resuts:
+energy:  -477.0   occurence:  882.0
+energy:  -476.0   occurence:  118.0
+
+
+
+
+
+matrix of size 8*14  
+minimal energy : -559
+resuts:
+energy:  -559.0   occurence:  757.0
+energy:  -558.0   occurence:  240.0
+energy:  -557.0   occurence:  3.0
+
+
+
+
+
+matrix of size 8*15  
+minimal energy : -547
+resuts:
+energy:  -547.0   occurence:  832.0
+energy:  -546.0   occurence:  164.0
+energy:  -545.0   occurence:  4.0
+
+
+
+
+
+matrix of size 8*16  
+minimal energy : -742
+resuts:
+energy:  -742.0   occurence:  837.0
+energy:  -741.0   occurence:  162.0
+energy:  -740.0   occurence:  1.0
+
+
+
+
+
+matrix of size 8*17  
+minimal energy : -701
+resuts:
+energy:  -701.0   occurence:  899.0
+energy:  -700.0   occurence:  100.0
+energy:  -699.0   occurence:  1.0
+
+
+
+
+
+matrix of size 8*18  
+minimal energy : -778
+resuts:
+energy:  -778.0   occurence:  852.0
+energy:  -777.0   occurence:  147.0
+energy:  -776.0   occurence:  1.0
+
+
+
+
+
+matrix of size 8*19  
+minimal energy : -1182
+resuts:
+energy:  -1182.0   occurence:  925.0
+energy:  -1181.0   occurence:  75.0
+
+
+
+
+
+matrix of size 9*9  
+minimal energy : -327
+resuts:
+energy:  -327.0   occurence:  952.0
+energy:  -326.0   occurence:  48.0
+
+
+
+
+
+matrix of size 9*10  
+minimal energy : -355
+resuts:
+energy:  -355.0   occurence:  814.0
+energy:  -354.0   occurence:  184.0
+energy:  -353.0   occurence:  2.0
+
+
+
+
+
+matrix of size 9*11  
+minimal energy : -708
+resuts:
+energy:  -708.0   occurence:  954.0
+energy:  -707.0   occurence:  46.0
+
+
+
+
+
+matrix of size 9*12  
+minimal energy : -405
+resuts:
+energy:  -405.0   occurence:  650.0
+energy:  -404.0   occurence:  345.0
+energy:  -403.0   occurence:  5.0
+
+
+
+
+
+matrix of size 9*13  
+minimal energy : -537
+resuts:
+energy:  -537.0   occurence:  890.0
+energy:  -536.0   occurence:  108.0
+energy:  -535.0   occurence:  2.0
+
+
+
+
+
+matrix of size 9*14  
+minimal energy : -698
+resuts:
+energy:  -698.0   occurence:  901.0
+energy:  -697.0   occurence:  98.0
+energy:  -696.0   occurence:  1.0
+
+
+
+
+
+matrix of size 9*15  
+minimal energy : -924
+resuts:
+energy:  -924.0   occurence:  946.0
+energy:  -923.0   occurence:  54.0
+
+
+
+
+
+matrix of size 9*16  
+minimal energy : -934
+resuts:
+energy:  -934.0   occurence:  810.0
+energy:  -933.0   occurence:  185.0
+energy:  -932.0   occurence:  5.0
+
+
+
+
+
+matrix of size 9*17  
+minimal energy : -657
+resuts:
+energy:  -657.0   occurence:  862.0
+energy:  -656.0   occurence:  137.0
+energy:  -655.0   occurence:  1.0
+
+
+
+
+
+matrix of size 9*18  
+minimal energy : -1091
+resuts:
+energy:  -1091.0   occurence:  863.0
+energy:  -1090.0   occurence:  137.0
+
+
+
+
+
+matrix of size 9*19  
+minimal energy : -1194
+resuts:
+energy:  -1194.0   occurence:  808.0
+energy:  -1193.0   occurence:  191.0
+energy:  -1192.0   occurence:  1.0
+
+
+
+
+
+matrix of size 10*10  
+minimal energy : -563
+resuts:
+energy:  -563.0   occurence:  899.0
+energy:  -562.0   occurence:  99.0
+energy:  -561.0   occurence:  2.0
+
+
+
+
+
+matrix of size 10*11  
+minimal energy : -523
+resuts:
+energy:  -523.0   occurence:  908.0
+energy:  -522.0   occurence:  92.0
+
+
+
+
+
+matrix of size 10*12  
+minimal energy : -694
+resuts:
+energy:  -694.0   occurence:  930.0
+energy:  -693.0   occurence:  69.0
+energy:  -692.0   occurence:  1.0
+
+
+
+
+
+matrix of size 10*13  
+minimal energy : -657
+resuts:
+energy:  -657.0   occurence:  868.0
+energy:  -656.0   occurence:  132.0
+
+
+
+
+
+matrix of size 10*14  
+minimal energy : -690
+resuts:
+energy:  -690.0   occurence:  833.0
+energy:  -689.0   occurence:  166.0
+energy:  -688.0   occurence:  1.0
+
+
+
+
+
+matrix of size 10*15  
+minimal energy : -1016
+resuts:
+energy:  -1016.0   occurence:  905.0
+energy:  -1015.0   occurence:  94.0
+energy:  -1014.0   occurence:  1.0
+
+
+
+
+
+matrix of size 10*16  
+minimal energy : -1126
+resuts:
+energy:  -1126.0   occurence:  918.0
+energy:  -1125.0   occurence:  82.0
+
+
+
+
+
+matrix of size 10*17  
+minimal energy : -862
+resuts:
+energy:  -862.0   occurence:  819.0
+energy:  -861.0   occurence:  181.0
+
+
+
+
+
+matrix of size 10*18  
+minimal energy : -1514
+resuts:
+energy:  -1514.0   occurence:  906.0
+energy:  -1513.0   occurence:  94.0
+
+
+
+
+
+matrix of size 10*19  
+minimal energy : -1524
+resuts:
+energy:  -1524.0   occurence:  915.0
+energy:  -1523.0   occurence:  84.0
+energy:  -1522.0   occurence:  1.0
+
+
+
+
+
